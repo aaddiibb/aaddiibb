@@ -22,8 +22,9 @@
   <a href="https://www.linkedin.com/in/md-adib-raian-939308220/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
   <a href="https://www.facebook.com/adib.ryan.562/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="48" />
   </a>
 </p>
 
