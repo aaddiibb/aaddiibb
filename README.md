@@ -122,12 +122,20 @@
 
 ---
 
-# 📊 GitHub Stats
-
+<!-- 📊 GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaddiibb&show_icons=true&theme=tokyonight" />
+  <!-- GitHub Readme Stats (supports cache_seconds) -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aaddiibb&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaddiibb&theme=tokyonight" />
+
+  <!-- GitHub Streak Stats (use the newer domain + cache control) -->
+  <img
+    src="https://streak-stats.demolab.com?user=aaddiibb&theme=tokyonight&cache_seconds=1800"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
