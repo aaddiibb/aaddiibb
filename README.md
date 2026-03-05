@@ -10,7 +10,7 @@
 
 ## 🌱 About Me
 
-- 🌱 I’m currently learning **Next.js, Deep Learning & Computer Vision**
+- 🌱 I’m currently learning **Next.js & Computer Vision**
 - 👨‍💻 All of my projects are available at: https://github.com/aaddiibb
 - 📫 How to reach me: **adibraian29@gmail.com**
 
@@ -59,20 +59,35 @@
 
 ## 🎨 Frontend Development
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
 </p>
 
 ## ⚙️ Backend Development
 <p>
-  <a href="https://nodejs.org/" target="_blank">
+  <a href="https://nodejs.org/">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
-  <a href="https://laravel.com/" target="_blank">
+  <a href="https://www.php.net/">
+    <img src="https://skillicons.dev/icons?i=php" />
+  </a>
+  <a href="https://laravel.com/">
     <img src="https://skillicons.dev/icons?i=laravel" />
   </a>
 </p>
